@@ -5,7 +5,7 @@ Bienvenue sur mon projet de fin d'année réalisé à l'Ecole Multimedia à Pari
 
 C'est un site e-commerce dont le but est de proposer des kits à cuisiner dans lesquels se trouvent tous les ingrédients nécessaires à la réalisation d'une entrée, d'un plat ou d'un dessert pour 2 ou 4 personnes. C'est une idée originale proposée par de vrais restaurateurs, vous pouvez en apprendre plus ici: http://www.xn--paniertoqu-k7a.fr/
 
-Le site a été réalisé from scratch en symphony 2.6 sur une période de 3 semaines par un chef de projet, 2 graphistes et un developpeur(moi-même).
+Le site a été réalisé from scratch en symphony 2.6 sur une période de 3 semaines par un chef de projet, 2 graphistes et un developpeur (moi-même).
 
 Installation:
 
