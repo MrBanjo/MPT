@@ -17,7 +17,7 @@ Installation:
 
 Contenu:
 
--5 pages représentant l'expérience d'achat d'un panier classique
--un back admin pour créer et changer les menus/blogs actuels (id/password: admin/admin)
--un caddie d'achat
--des comptes utilisateurs
+- 5 pages représentant l'expérience d'achat d'un panier classique
+- un back admin pour créer et changer les menus/blogs actuels (id/password: admin/admin)
+- un caddie d'achat
+- des comptes utilisateurs
