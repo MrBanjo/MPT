@@ -17,7 +17,19 @@ Installation:
 
 Contenu:
 
-- 5 pages représentant l'expérience d'achat d'un panier classique
-- un back admin pour créer et changer les menus/blogs actuels (id/password: admin/admin)
-- un caddie d'achat
-- des comptes utilisateurs
+-	Réalisation de 6 pages représentant l’expérience utilisateur (choix des produits/caddie/enregistrement utilisateurs / commande).
+-	Création de la charte graphique (HTML/CCS 3).
+-	Responsive design sur toutes les pages, tablettes et mobiles.
+-	Header en position fixe avec login utilisateur en AJAX et comptage du nombre d’article du caddie.
+-	Inscription newsletter en AJAX.
+-	Mini-blog sur la page d’accueil donnant un aperçu des 3 derniers articles du blog.
+-	Mise en place de sliders pour le visionnage des menus et repas (plugin Bxslider/ jQuery).
+-	Mise en place d’un caddie permettant la gestion de sa commande (réglage quantité et suppression).
+-	Ajout d’un produit au caddie en AJAX avec confirmation (continuer les achats/ terminer ma commande).
+-	Formulaire d’enregistrement utilisateur avec vérification d’erreurs et de disponibilité de l’adresse email en AJAX, imbrication de formulaire d’adresse de livraison.
+-	Formulaire de login classique.
+-	Configuration de la sécurité utilisateur de Symfony (visiteur/membre/admin).
+-	Base de données MySQL comprenant : Informations utilisateurs, menus et plats, catégorie de menu, newsletter, les upsells, les articles du blog. Diagramme workbench de la base de données.
+-	Utilisation de Twig pour la création de toutes les pages et des formulaires.
+-	Mise en place d’une partie administrateur avec Bootstrap pour gérer le contenu du site : menus et plats, blog.
+
